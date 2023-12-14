@@ -2,8 +2,8 @@ package main;
 
 import java.sql.*;
 
-public class Main{
-    public static void main(String[] args) {
+public class Main {
+    public static void main(String[] args){
         try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			// Start connection

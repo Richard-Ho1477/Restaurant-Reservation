@@ -5,5 +5,5 @@
  * 
  */
 module RestaurantReservation {
-	requires java.sql;
+    requires java.sql;
 }
